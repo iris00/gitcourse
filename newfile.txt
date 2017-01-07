@@ -1,1 +1,2 @@
 Esto es un archivo de prueba para el curso sobre GIT.
+Ahora hago otro cambio es el archivo
